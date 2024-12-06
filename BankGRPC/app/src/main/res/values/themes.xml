@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.BankGRPC" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Light Theme -->
+        <item name="colorPrimary">@color/saffron</item>
+        <item name="colorPrimaryVariant">@color/fulvous</item>
+        <item name="colorOnPrimary">@color/charcoal</item>
+
+        <!-- Secondary Colors -->
+        <item name="colorSecondary">@color/fulvous</item>
+        <item name="colorSecondaryVariant">@color/saffron</item>
+        <item name="colorOnSecondary">@color/charcoal</item>
+
+        <!-- Background Colors -->
+        <item name="colorOnBackground">@color/charcoal</item>
+
+        <!-- Surface Colors -->
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/charcoal</item>
+    </style>
+
+    <style name="Theme.BankGRPC" parent="Base.Theme.BankGRPC" />
+</resources>
