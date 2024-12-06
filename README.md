@@ -33,4 +33,4 @@ L'objectif principal est de gérer des comptes bancaires, où le client Android 
 ## Architecture du Projet
 
 ### Fichier `.proto`
-Le fichier `compte.proto` définit les messages et les services pour gRPC. Voici un exemple des définitions principales :
+Le fichier `compte.proto` définit les messages et les services pour gRPC.
