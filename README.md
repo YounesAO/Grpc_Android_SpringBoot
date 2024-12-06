@@ -8,7 +8,8 @@ L'objectif principal est de gérer des comptes bancaires, où le client Android 
 
 ---
 ## Vedio demo
-[Vedio demo GRPC](https://github.com/user-attachments/assets/2ab6bc39-2365-420d-addd-e8bc2087d6ad
+[Vedio demo GRPC](https://github.com/user-attachments/assets/c3cc75d0-d494-40c7-bd44-ae5b6cb7379b
+d
 )
 ## Fonctionnalités
 
